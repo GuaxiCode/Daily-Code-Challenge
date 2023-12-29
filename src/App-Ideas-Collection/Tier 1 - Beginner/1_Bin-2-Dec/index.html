@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        <!-- INFORMAÇÕES DO SITE -->
+        <title>Beginner | Bin2Dec</title>
+        <link rel="shortcut icon" href="./_assets/_img/website-icon.ico" type="image/x-icon" />
+
+        <!-- RECURSOS EXTERNOS -->
+        <link rel="stylesheet" href="./_assets/_css/index-style.css" />
+    </head>
+
+    <body>
+        <main class="application-wrapper">
+            <div class="title-container">
+                <h1 class="title-content">Bin2Dec</h1>
+            </div>
+
+            <div class="input-container">
+                <div class="input-text">
+                    <input type="text" id="input-text" placeholder="Digite até 8 dígitos binários." maxlength="8" required />
+                </div>
+
+                <div class="input-button">
+                    <button id="input-button" onclick="convertBinaryToDecimal()">Converter</button>
+                </div>
+            </div>
+
+            <div class="hr-container">
+                <hr class="horizontal-rules" />
+            </div>
+
+            <div class="result-container">
+                <p id="result-text" class="result-text">Aguardando o início da conversão.</p>
+            </div>
+        </main>
+
+        <script src="./_assets/_js/appMain.js"></script>
+    </body>
+</html>
