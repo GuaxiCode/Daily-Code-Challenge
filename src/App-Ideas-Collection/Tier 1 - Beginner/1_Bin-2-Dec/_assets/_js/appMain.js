@@ -5,7 +5,6 @@ function convertBinaryToDecimal() {
     let inputTextValue = inputText.value;
 
     const inputTextLength = inputTextValue.length;
-    console.log(inputTextLength);
 
     if (inputTextLength >= 1 && inputTextLength <= 8) {
         const regexRule = /^[01]+$/;
@@ -20,7 +19,6 @@ function convertBinaryToDecimal() {
             resultText.textContent = "Aguardando o início da conversão.";
         }
     } else {
-        console.log("chegou aqui 4");
         window.alert(`Comprimento de entrada inválido. Por favor, insira até 8 dígitos binários.`);
         inputText.value = "";
         resultText.textContent = "Aguardando o início da conversão.";
