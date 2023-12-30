@@ -29,13 +29,17 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
         <td align="center">
             <a href="https://github.com/GuaxiCode">
                 <img src="https://avatars3.githubusercontent.com/u/103534814" width="100px;" alt="Foto do GuaxiCode no GitHub"/><br>
+                <sub>
+                    <b>GuaxiCode</b>
+                </sub>
             </a>
         </td>
-    </tr>
-    <tr>
         <td align="center">
             <a href="https://github.com/GeamMB">
                 <img src="https://avatars3.githubusercontent.com/u/131729391" width="100px;" alt="Foto do GeamMB no GitHub"/><br>
+                <sub>
+                    <b>GeamMB</b>
+                </sub>
             </a>
          </td>
     </tr>
