@@ -22,7 +22,7 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 
 ---
 
-## 👩‍💻 | Desenvolvedores
+## 👩‍💻 | Equipe de Desenvolvimento
 
 <table>
     <tr>
@@ -41,6 +41,14 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
                     <b>GeamMB</b>
                 </sub>
             </a>
-         </td>
+        </td>
+        <td align="center">
+            <a href="https://github.com/MarianaLucille">
+                <img src="https://avatars3.githubusercontent.com/u/153683563" width="100px;" alt="Foto da Mariana Lucille no GitHub"/><br>
+                <sub>
+                    <b>Mariana Lucille</b>
+                </sub>
+            </a>
+        </td>
     </tr>
 </table>
